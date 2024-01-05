@@ -1,7 +1,7 @@
 import { AuthProvider } from "@arcana/auth";
 import { myerc20abi } from "./myerc20.js";
 
-const clientId = "xar_dev_1ce3de98ebac47e4196a1380b61422dcf63a9c7b";
+const clientId = "xar_dev_f0176ff917a736e93cebed58106750a68f7b5d2a";
 
 //Arcana Auth SDK integration
 
