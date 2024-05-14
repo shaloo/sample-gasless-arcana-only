@@ -1,6 +1,6 @@
 {
   "name": "html-css-gasless-metamask-only",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A template for HTML and CSS based app integrating with Arcana Gasless SDK using only MetaMask wallet.",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "parcel": "^2.9.3",
-    "@arcana/auth": "^1.0.9"
+    "@arcana/auth": "^1.0.10"
   },
   "@parcel/transformer-js": {
     "inlineEnvironment": [
